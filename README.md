@@ -1,6 +1,3 @@
 # StackList
-this is an implementation for stack with linked list
-
-
-
+Implement for data structures & algorithms.
 ## Notce
